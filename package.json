@@ -1,5 +1,5 @@
 {
-  "name": "react-native-reanimated",
+  "name": "@breeffy/react-native-reanimated",
   "version": "2.0.0-alpha.3",
   "description": "More powerful alternative to Animated library for React Native.",
   "scripts": {
